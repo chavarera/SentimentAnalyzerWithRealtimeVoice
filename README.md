@@ -15,8 +15,6 @@ This is Simple Python project to acknowledge the voice and convert voice to text
 ## Prerequisite
 SentimentAnalyzerWithRealtimeVoice Requires
 ```
-Requirement
-python version    : 3.x
 Modules :
 1)speech_recognition- For Realtime Speech Recognizer
 2)textblob - Sentimental analysis
