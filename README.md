@@ -1,4 +1,4 @@
-# SentimentAnalyzerWithRealtimeVoice ❤️ :loudspeaker:
+ ❤️ # SentimentAnalyzerWithRealtimeVoice :loudspeaker:
 This is Simple Python project to acknowledge the voice and convert voice to text and analysis that converted text using Text-Blob
 
 
@@ -46,7 +46,7 @@ python SentimentAnalyzerWithRealtimeVoice.py
 ```
 Now Just  speak any Sentences to test Application.
 After running above statement you will get following result.
-![https://github.com/chavarera/SentimentAnalyzerWithRealtimeVoice/screenshots/RealTimeWOrdSentimentanalaysisy.png]
+![https://raw.githubusercontent.com/chavarera/SentimentAnalyzerWithRealtimeVoice/master/screenshots/RealTimeWOrdSentimentanalaysisy.png]
 
 ## Error_Solution
 **Error 1:win32api module not found**
