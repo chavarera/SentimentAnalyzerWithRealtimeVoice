@@ -1,6 +1,6 @@
 # Sentiment Analyzer With Realtime Voice
 
-This is Simple Python project to acknowledge the user voice and convert voice to text and analysis sentimental of that  converted text.
+This is Simple Python project to acknowledge the user voice and convert voice to text and analysis sentiment of that  converted text.
 
 
 ## Table of Contents
